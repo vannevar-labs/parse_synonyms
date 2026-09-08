@@ -4,7 +4,7 @@
   "description": "tools for generating synonym files",
   "main": "parse_synonyms.js",
   "dependencies": {
-    "csv-parse": "^5.0.4"
+    "csv-parse": "^7.0.2"
   },
   "devDependencies": {},
   "scripts": {
